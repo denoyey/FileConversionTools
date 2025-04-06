@@ -3,6 +3,16 @@ FileConversionTools is a simple and efficient tool that helps you convert files 
 
 <br>
 
+## 🛠️ Features
+<ul>
+    <li>CSV to EXCEL</li>
+    <li>JSON to CSV</li>
+    <li>EXCEL to CSV</li>
+    <li>CSV o JSON</li>
+</ul>
+
+<br>
+
 ## 📸 Screenshot
 ![py-compile](https://github.com/denoyey/FileConversionTools/blob/4d7c95091bc011ea06e9ee988b187e78c90f68f1/img/FileConversionTools.png)
 
