@@ -1,2 +1,2 @@
 # FileConversionTools
-FileConversionTools is a tool that makes it easy to convert various file formats, such as CSV to JSON, Excel to CSV, and more. With this tool, you can quickly and easily transform data between formats, helping to streamline your work in managing and manipulating data.
+FileConversionTools is a simple and efficient tool that helps you convert files between various formats. It streamlines the process of transforming data, making it easier to manage and work with different file types.
